@@ -39,3 +39,23 @@ ___
 - I have solved over 500 problems on coding platforms and love challenges that push my problem-solving skills.
 
 
+
+## Skills
+
+**Languages** - C, CPP, C++, Javascript, NOSQL, OOPS
+
+**Frameworks and Libraries** - NextJS, React JS, Express JS, Tailwind CSS, HTML, RDBMS
+
+**Databases** - MongoDB, MySQL, NOSQL 
+
+**Other** - VS Code, Git, NPM, Postman, Operating Systems, OOP, DBMS
+
+**Soft Skills**: Leadership, Teamwork
+
+## My Education Status
+
+🎓 Bachelor of Technology, Specialization in Coding and Web-development ,  IIITBH'26  
+🏆 12th from Delhi Public School, (JEE Qualified 95 percentile over 1 minillion+ students)
+
+Thanks for visiting my profile
+
