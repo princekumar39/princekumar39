@@ -1,9 +1,11 @@
 <p align="center">
-  **ITS PRINCE KUMAR 👋**
+<strong>PRINCE KUMAR 👋</strong>
 </p>
 
 ___
-Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder
+<p align="center">
+<strong>Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder</strong>
+</p>
 ___
 
 - 🔧 Currently Working On:
