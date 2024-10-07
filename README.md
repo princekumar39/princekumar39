@@ -1,4 +1,7 @@
-### Prince Kumar 👋
+<p align="center">
+  **ITS PRINCE KUMAR 👋**
+</p>
+
 ___
 Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder
 ___
