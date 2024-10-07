@@ -57,5 +57,5 @@ ___
 🎓 Bachelor of Technology, Specialization in Coding and Web-development ,  IIITBH'26  
 🏆 12th from Delhi Public School, (JEE Qualified 95 percentile over 1 minillion+ students)
 
-Thanks for visiting my profile
+![Thanks for visiting my profile](https://raw.githubusercontent.com/dibyendu415/dibyendu415/master/marquee.svg)
 
