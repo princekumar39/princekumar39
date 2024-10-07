@@ -1,5 +1,7 @@
 ### Prince Kumar 👋
+___
 Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder
+___
 
 - 🔧 Currently Working On:
           Developing an innovative platform to connect researchers and entrepreneurs (React, Node.js, MongoDB).
