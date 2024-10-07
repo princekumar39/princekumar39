@@ -5,7 +5,7 @@
 ___
 
 <p align="center">
-<h2><strong>Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder</strong></h2>
+<h2><strong>Coder | Full Stack Developer | Open Source Enthusiast | Tech Lead </strong></h2>
 </p>
 
 ## 🔧 Currently Working On:
