@@ -29,7 +29,7 @@ ___
 - Competitive programming and solving coding challenges.
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/princekumar39)
+- [LinkedIn]((https://www.linkedin.com/in/prince-kumar-455284260/))
 - [Email Me](mailto:singhaniaprince39@example.com)
 
 ## 😄 Pronouns:
