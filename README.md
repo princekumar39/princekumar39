@@ -1,11 +1,6 @@
 ### Prince Kumar 👋
 Full Stack Developer | Open Source Enthusiast | Tech Lead | Coder
 
-<!--
-**princekumar39/princekumar39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔧 Currently Working On:
           Developing an innovative platform to connect researchers and entrepreneurs (React, Node.js, MongoDB).
           Contributing to open-source projects in GSSoC.
