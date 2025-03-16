@@ -37,7 +37,7 @@ ___
 - He/Him
 
 ## ⚡ Fun Fact:
-- I have solved over 500 problems on coding platforms and love challenges that push my problem-solving skills.
+- I have solved over 700+ DSA problems on coding platforms and love challenges that push my problem-solving skills.
 
 
 
