@@ -44,7 +44,7 @@ ___
 
 **Languages** - C, CPP, C++, Javascript, NOSQL, OOPS
 
-**Frameworks and Libraries** - NextJS, React JS, Express JS, Tailwind CSS, HTML, RDBMS
+**Frameworks and Libraries** - Node.JS, React JS, Express JS, Tailwind CSS, HTML, RDBMS
 
 **Databases** - MongoDB, MySQL, NOSQL 
 
