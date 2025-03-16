@@ -1,5 +1,6 @@
-<p align="center">
-<h1><strong>PRINCE KUMAR 👋</strong></h1>
+<h1 align="center"><strong>Hi 👋,I'm Prince Kumar </strong></h1>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00AEEF&width=600&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" />
 </p>
 
 ___
